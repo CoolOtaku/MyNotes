@@ -1,0 +1,15 @@
+.ListView:filled:selected:focused {
+    -fx-background-color: #7d4d36;
+}
+.ListView:filled:selected {
+    -fx-background-color: #7d4d36;
+}
+.ListView:filled:hover{
+    -fx-background-color: #464b4f;
+}
+.ListView:even{
+    -fx-background-color: #7d4d36;
+}
+.ListView{
+    -fx-background-color: #464b4f;
+}

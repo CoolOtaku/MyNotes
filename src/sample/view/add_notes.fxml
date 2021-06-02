@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="400.0" style="-fx-background-color: #464b4f;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.java.AddNotesControler">
+   <children>
+      <TextField fx:id="inputName" layoutX="14.0" layoutY="14.0" prefHeight="25.0" prefWidth="167.0" promptText="Назва">
+         <font>
+            <Font name="Arial Black" size="12.0" />
+         </font>
+      </TextField>
+      <TextArea fx:id="inputText" layoutX="14.0" layoutY="49.0" prefHeight="155.0" prefWidth="369.0" promptText="Текст">
+         <font>
+            <Font name="Candara" size="12.0" />
+         </font>
+      </TextArea>
+      <Button fx:id="saved" layoutX="150.0" layoutY="222.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: #7d4d36;" text="Зберегти" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="Arial Black" size="12.0" />
+         </font>
+      </Button>
+      <Button fx:id="back" layoutX="306.0" layoutY="346.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="80.0" style="-fx-background-color: #7d4d36;" text=" &lt; Назад" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="Arial Black" size="12.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>
