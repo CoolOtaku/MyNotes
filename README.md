@@ -1,6 +1,6 @@
 # MyNotes
 
-<p align="center"><img width="128" height="128" src="src/sample/style/hitheprogram.png" /></p>
+<p align="center"><img width="128" height="128" src="https://github.com/CoolOtaku/MyNotes/blob/d45465d352c3c82336e94961982de12739dfcadf/src/sample/style/note.png" /></p>
 
 ## EN
 
