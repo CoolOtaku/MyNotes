@@ -25,16 +25,16 @@ program may not work correctly on Linux operating systems.
 </p>
 
 #
-
 ## Technologies used
-
-- Using the library to build a JavaFX GUI
+<b>EN:</b>
+- Using the JavaFX library to create a graphical user interface
 - Work with files
 
+<b>UA:</b>
+- Використання бібліотеки JavaFX для створення графічного користувацького інтерфейсу
+- Робота з файлами
 #
-
 ## License
-
 ```
 © 2020, CoolOtaku (ericspz531@gmail.com)
 ```
